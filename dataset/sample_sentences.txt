@@ -1,0 +1,5 @@
+AI learns patterns from data.
+Transformers use attention to connect important words in a sentence.
+Python is widely used for machine learning and natural language processing.
+A recommendation system analyzes user behavior to suggest relevant products and content.
+Large language models use attention mechanisms to understand relationships between tokens and generate context-aware responses.
